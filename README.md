@@ -41,7 +41,7 @@ The dataset models critical behavioral and network attributes:
 ---
 
 ## 🌐 Live Web Application
-You can interact with the live dashboard here: [🔗 View Streamlit App](#) *(https://event-ticket-fraud-analytics.streamlit.app](https://event-ticket-fraud-analytics.streamlit.app)*
+You can interact with the live dashboard here:[View Streamlit App](https://event-ticket-fraud-analytics.streamlit.app)
 
 ---
 
